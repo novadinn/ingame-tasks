@@ -1,0 +1,3 @@
+/home/dinn/projects/ingame-tasks/orbit/CMakeFiles/orbit.dir
+/home/dinn/projects/ingame-tasks/orbit/CMakeFiles/edit_cache.dir
+/home/dinn/projects/ingame-tasks/orbit/CMakeFiles/rebuild_cache.dir

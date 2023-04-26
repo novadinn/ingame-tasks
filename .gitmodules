@@ -1,0 +1,9 @@
+[submodule "orbit/include/imgui"]
+	path = orbit/include/imgui
+	url = git@github.com:ocornut/imgui.git
+[submodule "orbit/include/stb"]
+	path = orbit/include/stb
+	url = git@github.com:nothings/stb.git
+[submodule "orbit/include/glm"]
+	path = orbit/include/glm
+	url = git@github.com:g-truc/glm.git
