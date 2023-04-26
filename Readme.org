@@ -1,0 +1,28 @@
+#+STARTUP: overview 
+#+PROPERTY: header-args :comments yes :results silent
+#+OPTIONS: \n:t
+* INGAME Tasks
+Этот проект - решения тестовых задач, сделанных для компании INGAME, г. Ижевск.
+* Установка
+Установка зависимостей
+#+BEGIN_SRC
+sudo apt-get install libglfw3
+sudo apt-get install libglfw3-dev
+sudo apt install freeglut3
+sudo apt install freeglut3-dev
+#+END_SRC
+Установка проекта
+#+BEGIN_SRC
+git clone --recurse-submodules git@github.com:novadinn/ingame-tasks.git
+#+END_SRC
+* Запуск
+** Орбита
+#+BEGIN_SRC
+cd ingame-tasks/orbit/build
+./orbit
+#+END_SRC
+** Белые пятна
+#+BEGIN_SRC
+cd ingame-tasks/white_spots/build
+./white_spots
+#+END_SRC
